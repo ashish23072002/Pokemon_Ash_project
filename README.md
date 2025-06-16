@@ -64,3 +64,5 @@ async function getData() {
     console.error('Error:', error);
   }
 }
+
+```
